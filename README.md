@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي يغلي في الليالي
+> نار شوقي لك تفوق كل خيالي
+> أنت روحي وأنت عشقي يا جمالي
+> اقترب مني وكن دائما قبالي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
