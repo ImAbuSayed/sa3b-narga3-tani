@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sa3b-narga3-tani/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Sa3b Narga3 Tani](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
