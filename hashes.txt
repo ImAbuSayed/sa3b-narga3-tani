@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sa3b Narga3 Tani
+
+This log tracks the cryptographic history and versioning for the song **Sa3b Narga3 Tani** (sa3b-narga3-tani).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T02:30:19.922589 | `v1` | `8c0d2f55894765dcbdcab464a0686436f028b56c43d27cd4c0f71642fa9fd758` | `046c91f219ccf04446279eb4e2d7f895b1de33f14df72f5b4bdcb28666fab7ee` | `2026-05-09_sa3b-narga3-tani-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
